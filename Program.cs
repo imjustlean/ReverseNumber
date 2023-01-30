@@ -19,7 +19,7 @@ namespace ReverseNumber
             {
                 numbers = numbers + number[i];
             }
-            Console.WriteLine("Reverse  Order : {0}", numbers);
+            Console.WriteLine("Output : {0}", numbers);
             Console.Write("\n");
             Console.ReadLine();
            
